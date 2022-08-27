@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .selected {
+    @apply bg-Orange text-White;
+  }
+  .unselected {
+    @apply bg-DarkBlue text-LightGrey;
+  }
+}
+
+body {
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
