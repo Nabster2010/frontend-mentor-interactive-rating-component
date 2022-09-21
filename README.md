@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github repo](https://github.com/Nabster2010/frontend-mentor-interactive-rating-component)
-- Live Site URL: [live site]()
+- Live Site URL: [live site](https://cerulean-trifle-57e5d1.netlify.app/)
 
 ## My process
 
